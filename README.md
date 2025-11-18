@@ -20,6 +20,7 @@ venv\Scripts\activate
 
 # Установить зависимости
 pip install -r requirements.txt
+```
 
 ## 2. Сборка документации
 Генерация HTML-файлов:
