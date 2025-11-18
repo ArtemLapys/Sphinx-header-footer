@@ -1,0 +1,15 @@
+# Sphinx build output
+build/
+_build/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# MacOS system files
+.DS_Store
