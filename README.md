@@ -24,10 +24,7 @@ pip install -r requirements.txt
 
 ## 2. Сборка документации
 
-- Генерация HTML-файлов:
-
-`make html`
-
+- Генерация HTML-файлов: `make html`
 
 - Готовый сайт будет лежать в папке: `build/html/index.html`.
 
